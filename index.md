@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Data Science 
 
-[Project 1 Title](/sample_page)
+[Online Shoppers Purchasing Intention] (https://drive.google.com/file/d/1kiFqki-MJJYrtJ5L49RXMqZOhfvwkHR4/view?usp=sharing)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+### Mini Projects
 
-- [Project 1 Title](http://example.com/)
+- [Investigate Hotel Business using Data Visualization] (https://drive.google.com/file/d/1-CgPVW-UPdCFdcQYnqxdYbnfySBLXwCq/view?usp=sharing)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
@@ -31,5 +31,3 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
